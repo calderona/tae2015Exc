@@ -1,21 +1,23 @@
 # tae2015Exc
 
-The most up-to-date code under: 
+1. To get the most up-to-date code under: 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
 git clone https://github.com/calderona/tae2015Exc.git 
     
 cd tae2015Exc/
 
 
-Reading the Root file: 
+2. Reading the Root files: 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
 ./makeTTbar
 
 ./runTTbar
 
 
-How to produce a plot:
-
+3. How to produce a plot:
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
 ./makePlotter
 
