@@ -1,7 +1,6 @@
 # tae2015Exc
 
 1. To get the most up-to-date code under: 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
 git clone https://github.com/calderona/tae2015Exc.git 
     
@@ -9,7 +8,6 @@ cd tae2015Exc/
 
 
 2. Reading the Root files: 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
 ./makeTTbar
 
@@ -17,8 +15,7 @@ cd tae2015Exc/
 
 
 3. How to produce a plot:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
-
+4. 
 ./makePlotter
 
 ./runPlotter
